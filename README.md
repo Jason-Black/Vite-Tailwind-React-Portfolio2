@@ -11,9 +11,10 @@ Boilerplate Repo for setting up a Vite - React - TailwindCSS Project
 ## 🌟 Features
 
 - <img src="vitelogo.svg" alt="Vite Logo" width="20"/> **Powered by Vite**: Enjoy instant HMR, fast builds, and a modern development environment.
-- <img src="react.svg" alt="Vite Logo" width="20"/> **Powered by React**: Enjoy instant HMR, fast builds, and a modern development environment.
--  <img src="tailwind.svg" alt="Vite Logo" width="20"/> **Powered by Tailwind**: Enjoy instant HMR, fast builds, and a modern development environment.
+- <img src="react.svg" alt="Vite Logo" width="20"/> **Built with React**: Utilize React's powerful component-based architecture to create dynamic and interactive user interfaces.
+-  <img src="tailwind.svg" alt="Vite Logo" width="20"/> **Styled with Tailwind CSS**: Design responsive and highly customizable layouts quickly with utility-first CSS classes.
 
+  
 - 📱 **Responsive Design**: Adapts seamlessly across all devices.
 - ⚡ **Fast Loading**: Optimized for speed and efficiency.
 - 🎨 **Customizable**: Easily modify styles and content.
