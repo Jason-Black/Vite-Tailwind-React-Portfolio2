@@ -1,4 +1,4 @@
-# Vite-React-TailwindCSS <span align="center">   <img src="vitelogo.svg" alt="Vite Logo" width="60"/> ➕   <img src="react.svg" alt="React Logo" width="70"/> ➕   <img src="tailwind.svg" alt="Tailwind CSS Logo" width="85"/></span>
+# Vite-React-TailwindCSS <span align="center">   <img src="vitelogo.svg" alt="Vite Logo" width="60"/> ➕   <img src="react.svg" alt="React Logo" width="70"/> ➕   <img src="tailwind.svg" alt="Tailwind CSS Logo" width="87"/></span>
 Boilerplate Repo for setting up a Vite - React - TailwindCSS Project
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://jason-black.github.io/Vite-Tailwind-React-Portfolio2/)
