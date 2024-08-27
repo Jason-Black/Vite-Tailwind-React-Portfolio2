@@ -1,19 +1,21 @@
 # Vite-React-TailwindCSS
 Boilerplate Repo for setting up a Vite - React - TailwindCSS Project
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://jason-black.github.io/HTML-Vanilla-Vite-Login-VideoBG/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://jason-black.github.io/Vite-Tailwind-React-Portfolio2/)
 
 ## Live Demo
 
-🚀 **[Check out the live site here!](https://jason-black.github.io/HTML-Vanilla-Vite-Login-VideoBG/)**
+🚀 **[Check out the live site here!](https://jason-black.github.io/Vite-Tailwind-React-Portfolio2/)**
 
 
 ## 🌟 Features
 
+- <img src="vitelogo.svg" alt="Vite Logo" width="40"/> **Powered by Vite**: Enjoy instant HMR, fast builds, and a modern development environment.
+- <img src="vitelogo.svg" alt="Vite Logo" width="20"/> **Powered by Vite**: Enjoy instant HMR, fast builds, and a modern development environment.
+
 - 📱 **Responsive Design**: Adapts seamlessly across all devices.
 - ⚡ **Fast Loading**: Optimized for speed and efficiency.
 - 🎨 **Customizable**: Easily modify styles and content.
-- <img src="vitelogo.svg" alt="Vite Logo" width="20"/> **Powered by Vite**: Enjoy instant HMR, fast builds, and a modern development environment.
 
 ---
 
