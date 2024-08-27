@@ -1,4 +1,4 @@
-# Vite-React-TailwindCSS
+# Vite-React-TailwindCSS <span align="center">   <img src="vitelogo.svg" alt="Vite Logo" width="60"/> ➕   <img src="react.svg" alt="React Logo" width="70"/> ➕   <img src="tailwind.svg" alt="Tailwind CSS Logo" width="70"/></span>
 Boilerplate Repo for setting up a Vite - React - TailwindCSS Project
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://jason-black.github.io/Vite-Tailwind-React-Portfolio2/)
@@ -11,8 +11,8 @@ Boilerplate Repo for setting up a Vite - React - TailwindCSS Project
 ## 🌟 Features
 
 - <img src="vitelogo.svg" alt="Vite Logo" width="20"/> **Powered by Vite**: Enjoy instant HMR, fast builds, and a modern development environment.
-- <img src="react.svg" alt="Vite Logo" width="20"/> **Powered by Vite**: Enjoy instant HMR, fast builds, and a modern development environment.
--  <img src="tailwind.svg" alt="Vite Logo" width="20"/> **Powered by Vite**: Enjoy instant HMR, fast builds, and a modern development environment.
+- <img src="react.svg" alt="Vite Logo" width="20"/> **Powered by React**: Enjoy instant HMR, fast builds, and a modern development environment.
+-  <img src="tailwind.svg" alt="Vite Logo" width="20"/> **Powered by Tailwind**: Enjoy instant HMR, fast builds, and a modern development environment.
 
 - 📱 **Responsive Design**: Adapts seamlessly across all devices.
 - ⚡ **Fast Loading**: Optimized for speed and efficiency.
@@ -34,3 +34,11 @@ Boilerplate Repo for setting up a Vite - React - TailwindCSS Project
 This project is a login page template built with HTML, CSS, and Vanilla JavaScript. It features a video background and is powered by Vite for fast development and building.
 
 
+#### build read me code please ignore
+
+
+<p align="center">
+  <img src="vitelogo.svg" alt="Vite Logo" width="50"/> ➕ 
+  <img src="react.svg" alt="React Logo" width="50"/> ➕ 
+  <img src="tailwind.svg" alt="Tailwind CSS Logo" width="50"/>
+</p>
