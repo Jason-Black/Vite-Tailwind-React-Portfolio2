@@ -41,5 +41,5 @@ This project is a login page template built with HTML, CSS, and Vanilla JavaScri
 <p align="center">
   <img src="vitelogo.svg" alt="Vite Logo" width="50"/> ➕ 
   <img src="react.svg" alt="React Logo" width="50"/> ➕ 
-  <img src="tailwind.svg" alt="Tailwind CSS Logo" width="50"/>
+  <img src="tailwind.svg" alt="Tailwind CSS Logo" width="74"/>
 </p>
